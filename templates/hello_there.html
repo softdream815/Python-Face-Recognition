@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Hello, Flask</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}" />
+    </head>
+    <body>
+        <input type="hidden" id="pdf_path" value="{{file_path}}"/>
+        <script>
+            location.href = document.getElementById("pdf_path").value;
+        </script>
+    </body>
+</html>

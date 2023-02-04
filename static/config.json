@@ -1,0 +1,185 @@
+{
+
+    "header": "",
+    "data": [
+        {
+            "title": "RADIOLOGIST CONSULTATION REFERRAL",
+            "subtitle": "",
+            "keywords": [
+                [
+                    {
+                        "key": "Name",
+                        "label": "Patient Name:",
+                        "cols": 6,
+                        "value": "",
+                        "type": 0
+                    },
+                    {
+                        "key": "DO",
+                        "label": "DOB:",
+                        "cols": 3,
+                        "value": "",
+                        "type": 0
+                    },
+                    {
+                        "key": "Sex",
+                        "label": "Sex:",
+                        "cols": 3,
+                        "value": "",
+                        "type": 0
+                    }
+                ],
+                [
+                    {
+                        "key": "ddre",
+                        "label": "Address:",
+                        "Value": "",
+                        "cols": 6,
+                        "type": 0
+                    }
+                ],
+                [
+                    {
+                        "key": "one",
+                        "label": "Home Phone:",
+                        "cols": 6,
+                        "value": "",
+                        "type": 0
+                    },
+                    {
+                        "key": "w)",
+                        "label": "Work Phone:",
+                        "cols": 6,
+                        "value": "",
+                        "type": 0
+                    }
+                ],
+                [
+                    {
+                        "key": "Medicare",
+                        "label": "Medicare Number:",
+                        "cols": 6,
+                        "value": "",
+                        "type": 0
+                    },
+                    {
+                        "key": "DVA",
+                        "label": "DVA Number:",
+                        "cols": 6,
+                        "value": "",
+                        "type": 0
+                    }
+                ],
+                [
+                    {
+                        "key": "m)",
+                        "label": "Mobile:",
+                        "value": "",
+                        "cols": 6,
+                        "type": 0
+                    },
+                    {
+                    "key": "Email",
+                    "label": "Email:",
+                    "value": "",
+                    "cols": 6,
+                    "type": 0
+                    }
+                ]
+            ]
+        },
+        {
+            "title": "EXAMINATION REQUEST",
+            "subtitle": "Ultrasound scan-shoulder, right painful right shoulder. ?impingement",
+            "keywords": [
+                [
+                    {
+                        "key": "doc_name",
+                        "label": "Reffering Doctor:",
+                        "value": "Romesh Sarvanandan",
+                        "cols": 6,
+                        "type": 1
+                    },
+                    {
+                        "key": "gp",
+                        "label": "Instructions for Reffering GP:",
+                        "value": "",
+                        "cols": 6,
+                        "type": 1
+                    }
+                ],
+                [
+                    {
+                        "key": "pro_num",
+                        "label": "Provider Number:",
+                        "value": "5641214Y",
+                        "cols": 6,
+                        "type": 1
+                    },
+                    {
+                        "key": "ref_copy",
+                        "label": "On behalf your patient, please send a copy of this referral to:",
+                        "value": "",
+                        "cols": 6,
+                        "type": 1,
+                        "width": "width-60"
+                    }
+                ],
+                [
+                    {
+                        "key": "doc_phone",
+                        "label": "Phone:",
+                        "value": "42073345",
+                        "cols": 12,
+                        "type": 1
+                    }
+                ],
+                [
+                    {
+                        "key": "doc_fax",
+                        "label": "Fax:",
+                        "value": "42073346",
+                        "cols": 12,
+                        "type": 1
+                    }
+                ],
+                [
+                    {
+                        "key": "ref_date",
+                        "label": "Referral Date:",
+                        "value": "2021-08-20",
+                        "cols": 12,
+                        "type": 1
+                    }
+                ],
+                [
+                    {
+                        "key": "clinic",
+                        "label": "Patient has consented to being contacted by the referral Clinic to arrange appointment(s).",
+                        "value": "",
+                        "cols": 6,
+                        "type": 2
+                    },
+                    {
+                        "key": "contact",
+                        "label": "Your patient will be contacted to arrange the requested appointments",
+                        "value": "",
+                        "cols": 6,
+                        "type": 2
+                    }
+                ],
+                [
+                    {
+                        "key": "health",
+                        "label": "Do not send reports to My Health Record.",
+                        "value": "",
+                        "cols": 6,
+                        "type": 2
+                    }
+                ]
+            ]
+        }
+    ],
+    "footer": "You doctor has recommended you use.You may use another provider, but discuss this with your doctor first."
+}
+
